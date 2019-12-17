@@ -1,4 +1,4 @@
-##program to perform append operation on two lists
+##program to perform append operation on lists
 a=[1,2,3,4,5,6,7,8,9]
 b=[4,5,6,7]
 c=[16,76,90,23,56,34,78,65,77,99,101]
