@@ -5,7 +5,7 @@ b=10
 c=5.6
 d=-9
 e=0.45
-print("two numbers a and b are",a,b,c,d,e)
+print("the predefined numbers are",a,b,c,d,e)
 print("1.addition=",a+b)
 print("2.substraction=",a-b)
 print("3.multiplication=",a*b)
